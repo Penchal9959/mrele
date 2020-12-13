@@ -1,0 +1,8 @@
+body{
+    background-image: url("images/apple.jpeg");
+    background-repeat: no-repeat;
+    background-size: contain; /* fit the image to the page*/
+    background-position: center;
+    background-attachment: fixed;
+    
+}
