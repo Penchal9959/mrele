@@ -1,8 +1,31 @@
-body{
-    background-image: url("images/apple.jpeg");
+ /* body{
+    background-image: url("images/comming.jpg");
     background-repeat: no-repeat;
     background-size: contain; /* fit the image to the page*/
-    background-position: center;
-    background-attachment: fixed;
+    /* background-position: center;  */
+    /* background-attachment: fixed; */
+     
+ /* }  */
+
+.text{
+    /* text-align: center; */
+    color: red;
+    background-size: cover;
     
+
+}
+#site{
+    text-align: center;
+}
+#id2{
+    background-position: center;
+    background-color:white;
+    size: 400px;
+
+    /* position: relative; */
+}
+
+#id3{
+    color: red;
+    text-align: center;
 }
