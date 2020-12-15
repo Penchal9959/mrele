@@ -1,31 +1,35 @@
- /* body{
-    background-image: url("images/comming.jpg");
+  body{
+    background-image: url("images/gif.gif");
     background-repeat: no-repeat;
-    background-size: contain; /* fit the image to the page*/
-    /* background-position: center;  */
-    /* background-attachment: fixed; */
+    background-size: cover; /* fit the image to the page*/
+    background-position: center; 
+    background-attachment: fixed;
      
- /* }  */
+ } 
 
-.text{
+/* .text{
     /* text-align: center; */
-    color: red;
-    background-size: cover;
+    /* color: red; */
+    /* background-size: cover; */ 
     
 
-}
+/* } */
 #site{
     text-align: center;
+    margin-bottom: 300px;
+    margin-top: 600px;
+    color: green;
+
 }
-#id2{
+/* #id2{
     background-position: center;
     background-color:white;
     size: 400px;
 
     /* position: relative; */
-}
+/* } */ 
 
-#id3{
+/* #id3{
     color: red;
     text-align: center;
-}
+} */
