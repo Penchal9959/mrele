@@ -6,9 +6,8 @@ detail page per product.
 The repository name is an abbreviation of "MR Electronics". It is kept because
 external links point at it.
 
-> **Archived.** Early Django work from 2020-2021, kept as a record. Not
-> maintained. Current work is GNSS signal processing and FPGA design - see the
-> [profile](https://github.com/Penchal9959).
+Early Django work, from 2020-2021. Current work is GNSS signal processing
+and FPGA design - see the [profile](https://github.com/Penchal9959).
 
 ## What this was
 
